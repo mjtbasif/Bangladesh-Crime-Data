@@ -1,5 +1,7 @@
 # Bangladesh-Crime-Data
-A dataset of crime records of [Bangladesh Police](https://www.police.gov.bd/) from 2010 to 2019
+A dataset of crime records of [Bangladesh Police](https://www.police.gov.bd/) from 2010 to 2019.
+
+csv files for each year is uploaded. Also, a xlsx file containg all the ten sheet is attached.
 
 
 # Source
